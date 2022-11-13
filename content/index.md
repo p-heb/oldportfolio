@@ -5,7 +5,7 @@ Description: This is our index page.
 
 Home page
 ==========================
-![Bild på Philip](assets/img/snickers.JPG "Philip")
+![Bild på Philip](assets/img/mew300.png "Philip")
 
 Hej!
 Philip heter jag och är född och uppvuxen i Stockholm. Förflyttade mig dock söderut till skåne för 12 år sedan och bor numera i Ystad.
