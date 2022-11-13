@@ -1,0 +1,14 @@
+.title {
+    margin: auto;
+    padding-left: 5em;
+    background-color: $title-background;
+    border-bottom: $accent-color;
+    
+    h1 {
+        margin-top: 0;
+    }
+}
+
+.logo {
+    background-color: $title-background;
+}

@@ -1,0 +1,40 @@
+.slide {
+    overflow-y: hidden !important;
+    transition: height 0.5s ease-in !important;
+}
+
+.nav {
+    ul {
+        display: flex;
+        justify-content: flex-end;
+        padding: 1em 0;
+        list-style: none;
+    }
+
+    li {
+        padding: 0 1em;
+    }
+
+    a {
+        background-color: $background-alternative-color;
+        padding: 1em;
+        border-radius: 100%;
+        text-decoration: none;
+        font-size: 1.3em;
+        font-weight: 600;
+    }
+
+    a:hover {
+        background-color: $title-background;
+        color: $background-alternative-color;
+    }
+}
+
+.nav a,
+.nav-toggle {
+    color: #333;
+}
+
+.nav-toggle {
+    display: none;
+}

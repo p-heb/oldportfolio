@@ -1,0 +1,23 @@
+html {
+    font-size: 100%;
+}
+
+body {
+    line-height: 1.4;
+}
+
+p {
+    font-size: 1em;
+    margin-bottom: 1.4rem; /* 1.4 (line-height) * 1em vår baseline */
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 2rem; /* baseline * 2, för att skapa mer utrymme */
+}
+
+@media (min-width: 64em) {
+    html {
+        font-size: 112.5%;
+    }
+}
